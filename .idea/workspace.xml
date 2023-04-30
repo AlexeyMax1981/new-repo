@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="83ecde36-1b9b-49f7-aecc-d1f3c97dc380" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/task_7_2/BonusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/task_7_2/BonusService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/task_7_2/BonusServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/task_7_2/BonusServiceTest.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/test/resources/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/data.csv" afterDir="false" />
+>>>>>>> ce021f24491bbe98c2a23dec50b99cbd2778aeb8
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_directory_selection": "C:/Users/Алексей/IdeaProjects/ru.netology/task_7_2/src/test/java",
     "last_opened_file_path": "C:/Users/Алексей/Desktop/collab-second"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Алексей/IdeaProjects/ru.netology/task_7_2/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Алексей/Desktop/collab-first&quot;
+>>>>>>> ce021f24491bbe98c2a23dec50b99cbd2778aeb8
   }
 }]]></component>
   <component name="RunAnythingCache">
@@ -60,7 +73,11 @@
       <command value="mvn test" />
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="JUnit.BonusServiceTest.shouldRegister">
+=======
+  <component name="RunManager" selected="JUnit.BonusServiceTest">
+>>>>>>> ce021f24491bbe98c2a23dec50b99cbd2778aeb8
     <configuration name="BonusServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="task_7_2" />
       <extension name="coverage">
@@ -76,7 +93,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="BonusServiceTest.shouldRegister" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="BonusServiceTest.shouldCalculateForRegisteredAndUnderLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> ce021f24491bbe98c2a23dec50b99cbd2778aeb8
       <module name="task_7_2" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +107,17 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.task_7_2" />
       <option name="MAIN_CLASS_NAME" value="ru.netology.task_7_2.BonusServiceTest" />
+<<<<<<< HEAD
       <option name="METHOD_NAME" value="shouldRegister(boolean)" />
+=======
+      <option name="METHOD_NAME" value="shouldCalculateForRegisteredAndUnderLimit(long,boolean,long)" />
+>>>>>>> ce021f24491bbe98c2a23dec50b99cbd2778aeb8
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="JetRunConfigurationType">
       <module name="collab-second" />
       <method v="2">
@@ -105,10 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+>>>>>>> ce021f24491bbe98c2a23dec50b99cbd2778aeb8
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BonusServiceTest.shouldRegister" />
         <item itemvalue="JUnit.BonusServiceTest" />
+        <item itemvalue="JUnit.BonusServiceTest.shouldCalculateForRegisteredAndUnderLimit" />
       </list>
     </recent_temporary>
   </component>
