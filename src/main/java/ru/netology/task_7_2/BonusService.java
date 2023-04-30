@@ -10,4 +10,13 @@ public class BonusService {
         }
         return bonus;
     }
+    public void register(boolean registered){
+
+        if (registered){
+            System.out.println("Ты зарегестрирован");
+        }
+        else {
+            System.out.println("Иди регистрируйся!");
+        }
+    }
 }

@@ -13,4 +13,12 @@ public class BonusServiceTest {
         long actual = service.calculate(amount, registered);
         Assertions.assertEquals(expected, actual);
     }
+    @ParameterizedTest
+    @CsvFileSource(files = "src/test/resources/data_new.csv")
+    public void shouldRegister(boolean registered){
+        BonusService service = new BonusService();
+        service.register(registered);
+
+
+    }
 }
